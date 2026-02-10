@@ -75,25 +75,21 @@ AI is a collaborator, not the owner of the knowledge.
 
 ---
 
-## Current Status
+## Private AI Chat References (Personal Use)
 
-🟡 **Initialization phase**
+Some architectural decisions, ideas, and reasoning for this project will come
+from ongoing discussions with AI assistants.
 
-This README is the reminder:
-- Why I started
-- What not to rush
-- Where to begin when I return
+To keep these references **private and under my control**:
 
----
+- AI chat discussions will be stored locally as Markdown notes
+- These files will **not be committed** to this repository
+- They are used only as personal memory aids and continuity helpers
 
-## Guiding Principle
+Example (local-only):
 
-> Notes should survive tools.  
-> Structure should evolve naturally.  
-> AI should amplify thinking, not replace it.
-
----
-
-## License
-
-MIT (can be changed later)
+```text
+_private/
+├── ai-chats.md
+├── design-decisions.md
+└── prompts-log.md
